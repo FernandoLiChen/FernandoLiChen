@@ -26,4 +26,4 @@ Hello! My name is Fernando, but everyone calls me Li Chen. I’m currently pursu
 
 # 📊 Github Stats
 [![Li Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoLiChen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=74db74)]
-![Li Chen's GitHub stats](https://github-profile-trophy.vercel.app/?username=FernandoLiChen&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![Li Chen's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=FernandoLiChen&theme=dark&hide_border=false&ring=74db74&fire=74db74&currStreakLabel=74db74)
